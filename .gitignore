@@ -1,0 +1,22 @@
+node_modules
+dist
+dist-ssr
+.vite
+.vercel
+.DS_Store
+*.local
+*.log
+
+# tsc build artifacts
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# editor / OS
+.idea
+.vscode
+
+# stray files
+BASe
+.vite-dev.out
+.vite-dev.err
